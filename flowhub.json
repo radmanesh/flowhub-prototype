@@ -2,6 +2,6 @@
   "id": "13102d7c-6dc5-4bcf-8a50-46084770cfbf",
   "user": "user-id",
   "host": "autodetect",
-  "port": 3569,
+  "port": null,
   "label": "71fcf668-7636-421a-a005-e9933f8211aa"
 }
