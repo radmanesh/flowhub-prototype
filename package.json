@@ -1,0 +1,16 @@
+{
+  "name": "flowhub-proto",
+  "version": "0.0.1",
+  "description": "prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"TODO: no test specified yet\" && exit 1"
+  },
+  "author": "arman",
+  "license": "Arman.inc",
+  "dependencies": {
+    "noflo": "^0.5.9",
+    "noflo-core": "^0.1.11",
+    "noflo-nodejs": "0.0.6"
+  }
+}
